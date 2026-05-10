@@ -1,6 +1,5 @@
-
 .project
 .classpath
 .settings/
-Stego.code-workspace
+.Stego.code-workspace
 bin/

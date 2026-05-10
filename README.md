@@ -8,9 +8,19 @@ Stego uses steganography to encrypt your data.
 
 Stego is a tool that conceals data such as text or images within other images without any visible difference to the image in which the data is concealed. In this way, unlike other methods of encryption, data can be shared without appearing to be encrypted.
 
+<br>
+
 ## Getting Started
 
 Source code is Java SE 22. Requires Java Runtime Environment.
+
+<br>
+
+## How Does Stego Work?
+
+See [how_Stego_works.md](how_Stego_works.md)
+
+<br>
 
 ## Development
 
